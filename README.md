@@ -15,12 +15,11 @@ Database Connection Layer
 🏗️ Project Structure
 UPI_system/
 │
-├── Controller.java      // Handles user requests
-├── service.java         // Business logic layer
-├── dao.java             // Database operations
-├── dbcon.java           // Database connection setup
+├── Controller.java // Handles user requests
+├── service.java // Business logic layer
+├── dao.java // Database operations
+├── dbcon.java // Database connection setup
 ├── userApplication.java // Main class (entry point)
-
 
 ⚙️ Technologies Used
 ☕ Java
